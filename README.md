@@ -14,7 +14,7 @@ Use the ImageDataGenerator class that belongs to the tf.keras.preprocessing.imag
 4) Rescale the tensors from values between 0 and 255 to values between 0 and 1 since Artificial Neural Networks work better with small input values
 
 # Model Training
-We use Convolutional Neural Networks to train our Image Classification model. Expect training time to take hours depending on local GPU.
+Convolutional Neural Networks have been used to train an Image Classification model. Expect training time to take hours depending on local GPU.
 Cloud resources are recommended despite the costs.
 Training time has taken approximately 4-5 hours on a local Nvidia Geforce RTX 3060 GPU.
 All training tests have resulted into over 93% accuracy on validation sets.
