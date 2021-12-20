@@ -17,7 +17,7 @@ Use the ImageDataGenerator class that belongs to the tf.keras.preprocessing.imag
 Convolutional Neural Networks have been used to train an Image Classification model. Expect training time to take hours depending on local GPU.
 Cloud resources are recommended despite the costs.
 Training time has taken approximately 4-5 hours on a local Nvidia Geforce RTX 3060 GPU.
-All training tests have resulted into over 93% accuracy on validation sets.
+Training run has resulted into over 95% accuracy on validation sets.
 
 # Technologies used
 Language: Python
