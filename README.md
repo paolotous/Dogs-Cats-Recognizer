@@ -1,7 +1,7 @@
 # Dogs-Cats-Recognizer
 Deep Learning Model trained on the Microsoft Asirre dataset acquired from a Kaggle competition.
 
-# Data Preparation
+# Data
 Original Dataset size: 25,000 images which include 12,500 cats and 12,500 dogs
 
 # Image Preparation
