@@ -1,2 +1,2 @@
 # Dogs-Cats-Recognizer
-Deep Learning Model trained on an unbalanced dataset acquired from a Kaggle competition.
+Deep Learning Model trained on a dataset acquired from a Kaggle competition.
